@@ -71,7 +71,7 @@
             this.botonArchivos1.ForeColor = System.Drawing.Color.White;
             this.botonArchivos1.Location = new System.Drawing.Point(52, 31);
             this.botonArchivos1.Name = "botonArchivos1";
-            this.botonArchivos1.Size = new System.Drawing.Size(45, 49);
+            this.botonArchivos1.Size = new System.Drawing.Size(50, 49);
             this.botonArchivos1.TabIndex = 2;
             this.botonArchivos1.Text = "botonArchivos1";
             this.botonArchivos1.UseVisualStyleBackColor = false;
